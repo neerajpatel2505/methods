@@ -6,6 +6,7 @@ class Mobile:
         price = p
         print("Mobile Model:",model, " & ","Mobile Price:",price)
         print("Fingure print functionality:",Mobile.fp)
+        print("Hello")
         
 obj = Mobile()
 Mobile.show_mobile("Real-me 8",'17000')
