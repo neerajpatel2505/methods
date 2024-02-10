@@ -13,3 +13,6 @@ class Test :
 
 # call class method
 Test.class_method_1()
+
+
+__________________________________
