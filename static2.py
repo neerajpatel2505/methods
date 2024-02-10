@@ -22,3 +22,6 @@ class Employee(object):
 
 emp = Employee('Neeraj', 12000, 'ABC Project')
 emp.work() 
+
+
+___________________________________________________________________
